@@ -1,0 +1,11 @@
+{
+    "name": "Tell me a joke",
+    "version": "1.0.0",
+    "description": "random jokes generator with time, I have added a clock too",
+    "manifest_version": 3,
+    "author": "Bilal Ahmed",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Random Joke Generator"
+    }
+}
